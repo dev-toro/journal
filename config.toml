@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dev-toro.github.io/"
 title        = "David and Goliath"
 languageCode = "en-us"
 paginate     = 10
@@ -11,21 +11,21 @@ theme = "goliath"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "@dev-toro development journal"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you linke
+  # Enable sharing buttons, if you linked
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "@dev-toro development journal"
   keywords = "homepage, blog"
   images = [""]
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [taxonomies]
     category = "blog"
