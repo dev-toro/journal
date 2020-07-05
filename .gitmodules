@@ -1,3 +1,3 @@
 [submodule "themes/goliath"]
 	path = themes/goliath
-	url = https://github.com/dev-toro/hugo-goliath-theme.git
+	url = git@github.com:dev-toro/hugo-goliath-theme.git
